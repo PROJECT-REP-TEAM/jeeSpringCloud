@@ -1,4 +1,4 @@
-JeeSpringCloudV3.2.3-互联网云快速开发框架<br>
+#JeeSpringCloudV3.2.3-互联网云快速开发框架
 ===============
   （一款免费开源的JAVA互联网云快速开发平台）微服务分布式代码生成的敏捷开发系统架构。项目代码简洁,注释丰富,上手容易,还同时集中分布式、微服务,同时包含许多基础模块和监控、服务模块。JeeSpringCloud GVP项目、1k+Star项目。JeeSpringCloud	2018年度最受欢迎中国开源软件项目<br>
 
@@ -16,11 +16,17 @@ JeeSpringCloudV3.2.3-互联网云快速开发框架<br>
 提供内网穿透 http://www.mofasuidao.cn<br>
 -----------------------------------
 
-JsonSqlV3.0<br>
+#JsonSqlV3.0
 介绍JsonSql，可以处理对象、Json、数组的筛选、统计、分组等功能，支持方法或sql语句。<br>
 https://gitee.com/JeeHuangBingGui/JsonSql<br>
 官方QQ群 798247492 <br>
 https://jq.qq.com/?_wv=1027&k=5SLgtsI<br>
+
+# AI_Server
+提供AI_Person_Server.exe直接运行<br>
+提供HTTP接口服务<br>
+行人识别和分析HTTP服务端等<br>
+https://gitee.com/JeeHuangBingGui/AI_Server<br>
 
 如果对您有帮助，您可以点右上角 "Star" 支持一下 谢谢！<br>
 -----------------------------------
