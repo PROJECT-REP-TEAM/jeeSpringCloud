@@ -16,13 +16,13 @@
 提供内网穿透 http://www.mofasuidao.cn<br>
 -----------------------------------
 
-#JsonSqlV3.0
+# JsonSqlV3.0
 介绍JsonSql，可以处理对象、Json、数组的筛选、统计、分组等功能，支持方法或sql语句。<br>
 https://gitee.com/JeeHuangBingGui/JsonSql<br>
 官方QQ群 798247492 <br>
 https://jq.qq.com/?_wv=1027&k=5SLgtsI<br>
 
-# AI_Server
+# AI_ServerV2.0
 提供AI_Person_Server.exe直接运行<br>
 提供HTTP接口服务<br>
 行人识别和分析HTTP服务端等<br>
