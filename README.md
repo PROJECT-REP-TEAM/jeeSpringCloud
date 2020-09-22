@@ -2,10 +2,10 @@
 ===============
   （一款免费开源的JAVA互联网云快速开发平台）微服务分布式代码生成的敏捷开发系统架构。项目代码简洁,注释丰富,上手容易,还同时集中分布式、微服务,同时包含许多基础模块和监控、服务模块。JeeSpringCloud GVP项目、1k+Star项目。JeeSpringCloud	2018年度最受欢迎中国开源软件项目<br>
 
-“开源不易”
+“开源不易”“承接外包项目”
 -----------------------------------
 开源中国2019年度最受欢迎投票 开发框架、库类-JeeSpringCloud投票。<br>
-“开源不易” https://www.oschina.net/project/top_cn_2019#jeeSpringCloud<br>
+“开源不易”“承接外包项目” https://www.oschina.net/project/top_cn_2019#jeeSpringCloud<br>
 
 如果对您有帮助，您可以点右上角 "Star" 支持一下 谢谢！<br>
 -----------------------------------
@@ -346,4 +346,8 @@ JeeSpringV3.0.0-2018-10-12
 会发送企业开发文档（捐献8-18元）<br>
 企业版源码（捐献99元以上，包括开发文档）<br>
 您的热情,我的动力!开源是一种精神,也是一种生活...
+
+承接外包项目
+-----------------------------------
+<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=9d1a06b22011b3901f0c202c0f5a6cbf9571199c0120236e3fb5401448123385"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="JeeSpringCloud项目外包服" title="JeeSpringCloud项目外包服">JeeSpringCloud项目外包服</a><br>
 
