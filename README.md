@@ -1,6 +1,6 @@
 #JeeSpringCloudV3.2.3-互联网云快速开发框架
 ===============
-  （一款免费开源的JAVA互联网云快速开发平台）微服务分布式代码生成的敏捷开发系统架构。项目代码简洁,注释丰富,上手容易,还同时集中分布式、微服务,同时包含许多基础模块和监控、服务模块。JeeSpringCloud GVP项目、1k+Star项目。JeeSpringCloud	2018年度最受欢迎中国开源软件项目<br>
+  （一款免费开源的JAVA互联网云快速开发平台）微服务分布式代码生成的敏捷开发系统架构。项目代码简洁,注释丰富,上手容易,还同时集中分布式、分布式事务、微服务,同时包含许多基础模块和监控、服务模块。JeeSpringCloud GVP项目、1k+Star项目。JeeSpringCloud	2018年度最受欢迎中国开源软件项目<br>
 
 “开源不易”“承接外包项目”
 -----------------------------------
@@ -187,6 +187,8 @@ RepositoryORM仓库,提供ORM接口和多种实现,可进行配置实现。
 RepositoryRedis仓库,提供Redis接口和多种实现,可进行配置实现。可以配置调用单机、redis、云redis对接。
 
 RepositoryService仓库,提供Service接口和多种实现,可进行配置实现。一个RepositoryService仓库就直接实现dubbo、微服务、基础服务器对接接口和实现。 
+
+分布式事务：https://github.com/seata/seata-samples
 
 五、架构说明
 -----------------------------------
