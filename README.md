@@ -354,3 +354,8 @@ JeeSpringV3.0.0-2018-10-12
 -----------------------------------
 <a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=9d1a06b22011b3901f0c202c0f5a6cbf9571199c0120236e3fb5401448123385"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="JeeSpringCloud项目外包服" title="JeeSpringCloud项目外包服">JeeSpringCloud项目外包服</a><br>
 
+# 企业合作
+群名称：开源企业合作
+
+群   号：678199313
+
