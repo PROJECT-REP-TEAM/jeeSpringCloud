@@ -29,6 +29,10 @@ https://jq.qq.com/?_wv=1027&k=5SLgtsI<br>
 行人识别和分析HTTP服务端等<br>
 https://gitee.com/JeeHuangBingGui/AI_Server<br>
 
+# OpenSoftFace
+开源人脸考勤系统
+https://gitee.com/JeeHuangBingGui/OpenSoftFace
+
 如果对您有帮助，您可以点右上角 "Star" 支持一下 谢谢！<br>
 -----------------------------------
 
