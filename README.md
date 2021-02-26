@@ -33,6 +33,10 @@ https://gitee.com/JeeHuangBingGui/AI_Server<br>
 开源人脸考勤系统<br>
 https://gitee.com/JeeHuangBingGui/OpenSoftFace
 
+# FastBigData
+敏捷大数据研发的分布式计算平台<br>
+https://gitee.com/JeeHuangBingGui/FastBigDate
+
 如果对您有帮助，您可以点右上角 "Star" 支持一下 谢谢！<br>
 -----------------------------------
 
