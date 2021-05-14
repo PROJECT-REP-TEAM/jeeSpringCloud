@@ -3,19 +3,14 @@
   （一款免费开源的JAVA互联网云快速开发平台）微服务分布式代码生成的敏捷开发系统架构。项目代码简洁,注释丰富,上手容易,还同时集中分布式、分布式事务、微服务,同时包含许多基础模块和监控、服务模块。JeeSpringCloud GVP项目、1k+Star项目。JeeSpringCloud	2018年度最受欢迎中国开源软件项目<br>
 
 
-“开源不易”“承接外包项目”
------------------------------------
-开源中国2019年度最受欢迎投票 开发框架、库类-JeeSpringCloud投票。<br>
-“开源不易”“承接外包项目” https://www.oschina.net/project/top_cn_2019#jeeSpringCloud<br>
-
 如果对您有帮助，您可以点右上角 "Star" 支持一下 谢谢！<br>
 -----------------------------------
 
-最新演示版地址：http://119.147.184.69:8881/admin/login<br>
-演示版地址(魔法隧道，流量用完了)：http://bknfdnl.hn3.mofasuidao.cn/admin/login<br>
-特别鸣谢魔法隧道<br>
-提供内网穿透 http://www.mofasuidao.cn<br>
+“开源不易”“承接外包项目”合作企业云讯海科技有限公司：www.yunxunhai.com<br>
 -----------------------------------
+公众号：![输入图片说明](https://images.gitee.com/uploads/images/2021/0514/151814_a0f24539_132236.png "屏幕截图.png")
+
+最新演示版地址：http://119.147.184.69:8881/admin/login<br>
 
 # JsonSqlV3.0
 介绍JsonSql，可以处理对象、Json、数组的筛选、统计、分组等功能，支持方法或sql语句。<br>
