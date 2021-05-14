@@ -11,6 +11,7 @@
 官网：www.yunxunhai.com<br>
 公众号：<br>
 ![输入图片说明](https://images.gitee.com/uploads/images/2021/0514/152100_79d09709_132236.png "屏幕截图.png")<br>
+承接外包项目：<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=9d1a06b22011b3901f0c202c0f5a6cbf9571199c0120236e3fb5401448123385"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="项目外包服" title="JeeSpringCloud项目外包服">项目外包服</a><br>
 
 最新演示版地址：http://119.147.184.69:8881/admin/login<br>
 
