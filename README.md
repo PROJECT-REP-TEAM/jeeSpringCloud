@@ -12,7 +12,7 @@
 4. 需要在自己官方网站首要位置增加对开源驰骋的官网链接.
 5. 开源驰骋官网: http://ccflow.org/?from=JeeSpringCloud
 
-### 合作声明: 离散学协会
+### 合作声明: 离散学智慧社区
 ![输入图片说明](https://images.gitee.com/uploads/images/2021/0728/092328_88762556_132236.png "屏幕截图.png")
 百事百度，离散成败。
 
